@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Wake-Up/static/css/main.8b679891.chunk.css",
-    "main.js": "/Wake-Up/static/js/main.98dace61.chunk.js",
-    "main.js.map": "/Wake-Up/static/js/main.98dace61.chunk.js.map",
+    "main.css": "/Wake-Up/static/css/main.32fdfe9c.chunk.css",
+    "main.js": "/Wake-Up/static/js/main.a3a91b02.chunk.js",
+    "main.js.map": "/Wake-Up/static/js/main.a3a91b02.chunk.js.map",
     "runtime-main.js": "/Wake-Up/static/js/runtime-main.7c86e702.js",
     "runtime-main.js.map": "/Wake-Up/static/js/runtime-main.7c86e702.js.map",
     "static/js/2.7a34d247.chunk.js": "/Wake-Up/static/js/2.7a34d247.chunk.js",
     "static/js/2.7a34d247.chunk.js.map": "/Wake-Up/static/js/2.7a34d247.chunk.js.map",
     "index.html": "/Wake-Up/index.html",
-    "static/css/main.8b679891.chunk.css.map": "/Wake-Up/static/css/main.8b679891.chunk.css.map",
+    "static/css/main.32fdfe9c.chunk.css.map": "/Wake-Up/static/css/main.32fdfe9c.chunk.css.map",
     "static/js/2.7a34d247.chunk.js.LICENSE.txt": "/Wake-Up/static/js/2.7a34d247.chunk.js.LICENSE.txt",
     "static/media/Header.module.scss": "/Wake-Up/static/media/matrix.a16536ec.ttf",
     "static/media/Goals.module.scss": "/Wake-Up/static/media/bggif.58aa4950.gif"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.7c86e702.js",
     "static/js/2.7a34d247.chunk.js",
-    "static/css/main.8b679891.chunk.css",
-    "static/js/main.98dace61.chunk.js"
+    "static/css/main.32fdfe9c.chunk.css",
+    "static/js/main.a3a91b02.chunk.js"
   ]
 }
