@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Wake-Up/static/css/main.32fdfe9c.chunk.css",
-    "main.js": "/Wake-Up/static/js/main.a3a91b02.chunk.js",
-    "main.js.map": "/Wake-Up/static/js/main.a3a91b02.chunk.js.map",
+    "main.js": "/Wake-Up/static/js/main.ebbd80c2.chunk.js",
+    "main.js.map": "/Wake-Up/static/js/main.ebbd80c2.chunk.js.map",
     "runtime-main.js": "/Wake-Up/static/js/runtime-main.7c86e702.js",
     "runtime-main.js.map": "/Wake-Up/static/js/runtime-main.7c86e702.js.map",
     "static/js/2.7a34d247.chunk.js": "/Wake-Up/static/js/2.7a34d247.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7c86e702.js",
     "static/js/2.7a34d247.chunk.js",
     "static/css/main.32fdfe9c.chunk.css",
-    "static/js/main.a3a91b02.chunk.js"
+    "static/js/main.ebbd80c2.chunk.js"
   ]
 }
