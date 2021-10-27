@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Wake-Up/static/css/main.32fdfe9c.chunk.css",
-    "main.js": "/Wake-Up/static/js/main.ebbd80c2.chunk.js",
-    "main.js.map": "/Wake-Up/static/js/main.ebbd80c2.chunk.js.map",
+    "main.js": "/Wake-Up/static/js/main.1be28cc2.chunk.js",
+    "main.js.map": "/Wake-Up/static/js/main.1be28cc2.chunk.js.map",
     "runtime-main.js": "/Wake-Up/static/js/runtime-main.7c86e702.js",
     "runtime-main.js.map": "/Wake-Up/static/js/runtime-main.7c86e702.js.map",
     "static/js/2.7a34d247.chunk.js": "/Wake-Up/static/js/2.7a34d247.chunk.js",
@@ -11,12 +11,18 @@
     "static/css/main.32fdfe9c.chunk.css.map": "/Wake-Up/static/css/main.32fdfe9c.chunk.css.map",
     "static/js/2.7a34d247.chunk.js.LICENSE.txt": "/Wake-Up/static/js/2.7a34d247.chunk.js.LICENSE.txt",
     "static/media/Header.module.scss": "/Wake-Up/static/media/matrix.a16536ec.ttf",
-    "static/media/Goals.module.scss": "/Wake-Up/static/media/bggif.58aa4950.gif"
+    "static/media/Goals.module.scss": "/Wake-Up/static/media/bggif.58aa4950.gif",
+    "static/media/github-brands.e2f07326.svg": "/Wake-Up/static/media/github-brands.e2f07326.svg",
+    "static/media/instagram-brands.90a80cd5.svg": "/Wake-Up/static/media/instagram-brands.90a80cd5.svg",
+    "static/media/linkedin-in-brands.8fb0cfb6.svg": "/Wake-Up/static/media/linkedin-in-brands.8fb0cfb6.svg",
+    "static/media/pic1.abe08445.jpeg": "/Wake-Up/static/media/pic1.abe08445.jpeg",
+    "static/media/pic2.ddd1f2bc.jpg": "/Wake-Up/static/media/pic2.ddd1f2bc.jpg",
+    "static/media/telegram-plane-brands.2685abfd.svg": "/Wake-Up/static/media/telegram-plane-brands.2685abfd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7c86e702.js",
     "static/js/2.7a34d247.chunk.js",
     "static/css/main.32fdfe9c.chunk.css",
-    "static/js/main.ebbd80c2.chunk.js"
+    "static/js/main.1be28cc2.chunk.js"
   ]
 }
