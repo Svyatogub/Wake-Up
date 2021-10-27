@@ -1,5 +1,7 @@
 import React from 'react'
 import styles from './Content.module.scss'
+import logo1 from '../img/pic1.jpeg'
+import logo2 from '../img/pic2.jpg'
 
 export const Content = () => {
     return (
@@ -7,7 +9,7 @@ export const Content = () => {
             <div className={styles.Content}>
                 <div className={styles.Box}>
                     <div className={styles.Pic}>
-                        <img src="./img/pic3.jpg" alt="first pic"/>
+                        <img src={logo1} alt="first pic"/>
                     </div>
                     <div className={styles.InfoBox}>
                         <div className={styles.Info}>
@@ -20,7 +22,7 @@ export const Content = () => {
                 </div>
                 <div className={styles.Box}>
                     <div className={styles.Pic}>
-                        <img src="./img/pic2.jpg" alt="second pic"/>
+                        <img src={logo2} alt="second pic"/>
                     </div>
                     <div className={styles.InfoBox}>
                         <div className={styles.Info}>
