@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.Goals {
+    background: url(../img/bggif.gif);
+    background-size: 100% 100%;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    height: 90vh;
+}
+.Container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 60%;
+}
+.Message {
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    z-index: 10;
+    background: rgba($color: #000000, $alpha: 0.7);
+    
+}

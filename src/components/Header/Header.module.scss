@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "matrix";
+    src: url("../fonts/matrix.ttf") format("truetype");
+}
+$font-main: "matrix";
+
+.Header {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    height: 100vh;
+    background: url(../img/Matrix.gif) center center;
+    background-size: 100% 100%;
+    justify-content: center;
+}
+.Container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.Message{
+    color: white;
+    font-size: 10vh;
+    font-family: "matrix";
+    z-index: 10;
+    position: relative;
+    margin-top: 50%;
+}

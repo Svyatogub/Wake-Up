@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.Everything{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+}
+.Content{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+}
+.Content .Box {
+    position: relative;
+    width: 450px;
+    height: 320px;
+    background: #000;
+}
+.Content .Box .Pic {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.Content .Box .Pic img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.Content .Box .InfoBox{
+    position: absolute;
+    top: 40px;
+    bottom: 40px;
+    right: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(0,0,0, 0.95);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.5s;
+    transform-origin: right;
+    transform: scaleX(0);
+}
+.Content .Box:hover .InfoBox{
+    transition: transform 0.5s;
+    transform-origin: left;
+    transform: scaleX(1);
+}
+.Content .Box .InfoBox .Info {
+    position: relative;
+    padding: 20px 60px;
+    opacity: 0;
+}
+.Content .Box:hover .InfoBox .Info {
+    opacity: 1;
+    transition: 0.5s;
+    transition-delay: 0.5s;
+}
+.Content .Box .InfoBox .Info h2 {
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.Content .Box .InfoBox .Info p {
+    color: #fff;
+    font-weight: 300;
+}
