@@ -7,7 +7,7 @@ export const Content = () => {
             <div className={styles.Content}>
                 <div className={styles.Box}>
                     <div className={styles.Pic}>
-                        <img src="./img/pic1.jpeg" alt="first pic"/>
+                        <img src="./img/pic3.jpg" alt="first pic"/>
                     </div>
                     <div className={styles.InfoBox}>
                         <div className={styles.Info}>
